@@ -1,4 +1,22 @@
 
+kaduardo:
+    display_name: "Dr. Carlos Eduardo da Silva"
+    github: kaduardo
+    role: faculty
+    image: /img/people/carlos.jpg
+    bio: Senior Lecturer
+
+marjory:
+    display_name: "Dr. Márjory da Costa Abreu"
+    role: faculty
+    image: /img/people/marjory.jpg
+    bio: Senior Lecturer
+
+shaun:
+    display_name: "Shaun Holt"
+    role: faculty
+    bio: Senior Lecturer
+
 prof-a:
     display_name: "Prof A"
     role: faculty

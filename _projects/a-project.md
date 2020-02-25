@@ -7,6 +7,7 @@ description: |
   fames ac turpis egestas.
 
 people:
+  - kaduardo
   - storm
   - profx
   - grad-b
