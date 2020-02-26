@@ -3,7 +3,7 @@ url: http://steru-shu.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
-# colorize code snippets with the pygments module
+# colorize code snippets with the rouge module
 highlighter: rouge
 
 # The path structure for blog posts.
