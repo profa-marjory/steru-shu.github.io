@@ -9,7 +9,7 @@ kaduardo:
 marjory:
     display_name: "Dr. Márjory da Costa Abreu"
     role: faculty
-    image: /img/people/marjory.jpg
+#    image: /img/people/marjory.jpg
     bio: Senior Lecturer
 
 shaun:
